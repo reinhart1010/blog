@@ -1,1 +1,5 @@
+title: Reinhart Previano K.
+description: Blog repository
 remote_theme: reinhart1010/cayman
+plugins:
+  - jekyll-feed
